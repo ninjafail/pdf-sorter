@@ -1,0 +1,7 @@
+sorted_songs.pdf
+
+.venv/
+.vscode/launch.json
+__pycache__/song_info.cpython-310.pyc
+__pycache__/sorter.cpython-310.pyc
+liederbuch-bookmarks.pdf
